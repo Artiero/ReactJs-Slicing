@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap');
+
+h1{
+    font-family: 'Roboto';
+    color: #01261F;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+p{
+    color: #C4C4C4;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 16;
+}

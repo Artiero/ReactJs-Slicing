@@ -1,0 +1,17 @@
+.btn-product{
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.btn-product .btn-buy{
+    /* margin-left: auto; */
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    background-color: #E99E33;
+    padding: 9px 90px;
+    border-radius: 3px;
+}

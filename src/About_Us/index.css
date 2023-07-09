@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap');
+
+.about h1{
+    font-family: 'Roboto';
+    padding-top: 100px;
+    padding-bottom: 25px;
+    font-weight: 500;
+    font-size: 28px;
+    color: #01261F;
+    text-align: center;
+}
+
+.about h1 span{
+    color: #1E9153;
+}
+
+.about .conten p{
+    text-align: justify;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.about .conten span{
+    color: #1E9153;
+}
+
+.about .conten img{
+    border-radius: 10px;
+}
